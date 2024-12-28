@@ -1,4 +1,4 @@
-[![Watch the video](https://img.youtube.com/vi/SnFhRVCH12E/0.jpg)](https://www.youtube.com/watch?v=SnFhRVCH12E)
+[![Watch the video](https://github.com/freedom-apps/hook-botnet/blob/main/Скриншот%2028-12-2024%20052533.jpg)](https://www.youtube.com/watch?v=SnFhRVCH12E)
 
 
 # Hook Botnet 
