@@ -1,7 +1,8 @@
-[![Watch the video](https://github.com/freedom-apps/hook-botnet/blob/main/image.jpg)](https://www.youtube.com/watch?v=SnFhRVCH12E)
-
+[![Watch the video](https://raw.githubusercontent.com/freedom-apps/hook-botnet/main/image.jpg)](https://www.youtube.com/watch?v=SnFhRVCH12E)
 
 # Hook Botnet 
+
+> **⚠️ Educational Purposes Only:** This project is for educational purposes only. Unauthorized use of this tool for malicious purposes may violate laws and regulations.
 
 The **Hook Botnet** is a comprehensive control panel designed to provide advanced functionalities for botnet control, device management, and stealth operations. It supports a wide range of Android devices and offers extensive features to efficiently manage and control infected devices. The botnet includes tools for data theft, device manipulation, and bypassing common anti-virus and security measures.
 
@@ -68,10 +69,8 @@ The **Hook Botnet** is a comprehensive control panel designed to provide advance
 
 ---
 
-### Note
-This project is for educational purposes only. Unauthorized use of this tool for malicious purposes may violate laws and regulations.
-
 ### Links
+
 ☢️ **Teletype**: [https://teletype.in/@freedom_apps](https://teletype.in/@freedom_apps)  
 ☢️ **Telegram**: [https://t.me/freedom_apps](https://t.me/freedom_apps)  
 ☢️ **VK**: [https://vk.com/freedom_apps](https://vk.com/freedom_apps)  
