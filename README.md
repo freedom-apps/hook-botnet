@@ -71,3 +71,7 @@ The **Hook Botnet** is a comprehensive control panel designed to provide advance
 ### Note
 This project is for educational purposes only. Unauthorized use of this tool for malicious purposes may violate laws and regulations.
 
+### Links
+☢️ **Teletype**: [https://teletype.in/@freedom_apps](https://teletype.in/@freedom_apps)  
+☢️ **Telegram**: [https://t.me/freedom_apps](https://t.me/freedom_apps)  
+☢️ **VK**: [https://vk.com/freedom_apps](https://vk.com/freedom_apps)  
