@@ -1,4 +1,7 @@
-# Hook Botnet Overview
+[![Watch the video](https://img.youtube.com/vi/SnFhRVCH12E/0.jpg)](https://www.youtube.com/watch?v=SnFhRVCH12E)
+
+
+# Hook Botnet 
 
 The **Hook Botnet** is a comprehensive control panel designed to provide advanced functionalities for botnet control, device management, and stealth operations. It supports a wide range of Android devices and offers extensive features to efficiently manage and control infected devices. The botnet includes tools for data theft, device manipulation, and bypassing common anti-virus and security measures.
 
